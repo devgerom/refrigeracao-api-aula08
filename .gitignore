@@ -1,0 +1,13 @@
+node_modules/
+.env
+coverage/
+
+# SQLite
+*.db
+*.db-journal
+prisma/*.db
+prisma/*.db-journal
+
+# Sistema
+.DS_Store
+Thumbs.db
